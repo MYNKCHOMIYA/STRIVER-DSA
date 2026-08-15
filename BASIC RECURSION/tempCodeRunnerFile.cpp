@@ -1,2 +1,0 @@
-
-int fabo(int n){
